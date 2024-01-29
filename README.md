@@ -1,4 +1,4 @@
 # iot_project
 
-TODO _Please_ write a description of the project
+TODO The professor will write a description of the project; 
 
