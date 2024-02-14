@@ -1,3 +1,3 @@
 # iot_project
 
-TODO The professor will write a description of the project; 
+This is just the place to have all the iot projects
