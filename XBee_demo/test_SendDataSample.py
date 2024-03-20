@@ -1,4 +1,3 @@
-# from digi.xbee.devices import XBeeDevice
 from digi.xbee.devices import XBeeDevice, RemoteXBeeDevice
 from digi.xbee.models.address import XBee64BitAddress
 
